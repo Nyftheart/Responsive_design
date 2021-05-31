@@ -13,4 +13,6 @@ rendu eval
 
 -> j'ai mis des screen en cas de bug
 
+-> Pas eu le temps pour le js mais j'ai fait des annimation + burger menu
+
 Je vous souhaite une bonne corection
