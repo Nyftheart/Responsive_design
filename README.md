@@ -8,5 +8,6 @@ rendu eval
 -> Alexandre kramer B2A info
 -> écran 1080 , ipad, iphoneX (pris pour model responsive)
 -> bug inconu quand je compresse le projet cela cree des espace entre les partie
+-> j'ai mis des screen en cas de bug
 
 Je vous souhaite une bonne corection
